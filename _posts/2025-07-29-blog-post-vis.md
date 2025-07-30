@@ -90,7 +90,7 @@ Although some flickering or instability may occur between frames, our method sti
 #### 动画场景
 #### Animation scene
 <p align="center">
-  <img src="/images/rag_vis/images/rag_vis/genshen_20250510145356.jpg_comparison.png" alt="Selfie Scene" style="max-width: 100%; height: auto;" />
+  <img src="/images/rag_vis/images/rag_vis/genshen_20250510145356.jpg_comparison.png" alt="Animation Scene" style="max-width: 100%; height: auto;" />
 </p>
 
 #### 低光环境 + 遮挡  
