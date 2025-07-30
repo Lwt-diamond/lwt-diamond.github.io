@@ -16,7 +16,7 @@ The SEG results shown below are sourced from online screenshots and are intended
 
 ### 感谢
 
-**以下排名不分先后：陈虹伊，《无间道》，《百家讲坛》，《教父》，《状元苏乞儿》，谭维维，张碧晨，《甄嬛传》,张国荣, 泽连斯基，特朗普。**
+**以下排名不分先后：陈虹伊，《无间道》，《百家讲坛》，《原神》，《教父》，《状元苏乞儿》，谭维维，张碧晨，《甄嬛传》,张国荣, 泽连斯基，特朗普。**
 
 
 
@@ -87,6 +87,12 @@ Although some flickering or instability may occur between frames, our method sti
   <img src="/images/rag_vis/Snipaste_2025-01-04_21-27-56.png_comparison.png" alt="Simple Scene" style="max-width: 100%; height: auto;" />
 </p>
 
+#### 动画场景
+#### Animation scene
+<p align="center">
+  <img src="/images/rag_vis/images/rag_vis/genshen_20250510145356.jpg_comparison.png" alt="Selfie Scene" style="max-width: 100%; height: auto;" />
+</p>
+
 #### 低光环境 + 遮挡  
 #### Low-Light with Occlusion
 <p align="center">
@@ -143,6 +149,7 @@ Although some flickering or instability may occur between frames, our method sti
 <p align="center">
   <img src="/images/rag_vis/Snipaste_2025-05-26_18-11-39.png_comparison.png" alt="Very Low Light" style="max-width: 100%; height: auto;" />
 </p>
+
 #### 简单自拍场景  
 #### Simple Selfie Scene
 <p align="center">
