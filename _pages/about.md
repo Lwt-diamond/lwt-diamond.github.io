@@ -22,7 +22,7 @@ In my free time, I enjoy watching anime and reading manga — I'm a big fan of D
 
 
 ### 消息 |  News
-- 🎉 [2025.07] RAG-SEG 额外的分割结果发布到posts(面对OOD数据的分割结果)
+- 🎉 [2025.07] RAG-SEG 额外的分割结果发布到blog(面对OOD数据的分割结果)
 - 📚 [2024.06] 参加Valse2024会议;参加了 IJCAI2025 会议; 
 
 ### 研究方向 | Research Interests
