@@ -1,6 +1,6 @@
 ---
 
-title: 'RAG-SEG: A Training-free Framework for Segmentation'
+title: 'RAG-SEG( First RAG, Second SEG: A Training-Free Paradigm for Camouflaged Object Detection )'
 date: 2025-07-29
 permalink: /posts/2025-07-29-blog-post-vis/
 tags:
@@ -8,6 +8,10 @@ tags:
   - category1
   - category2
 ---
+
+
+**Paper Link: https://arxiv.org/abs/2508.15313 **
+
 
 以下展示的 SEG 结果来源于网络截图，仅用于学术交流。若涉及您的合法权益，请及时联系我们（wutaoliu@nuaa.edu.cn），我们将及时处理。  
 The SEG results shown below are sourced from online screenshots and are intended for academic use only. If these materials infringe on your rights, please contact us at wutaoliu@nuaa.edu.cn for prompt resolution.
