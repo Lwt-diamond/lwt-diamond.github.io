@@ -10,7 +10,7 @@ tags:
 ---
 
 
-**Paper Link: https://arxiv.org/abs/2508.15313 **
+**Paper Link: https://arxiv.org/abs/2508.15313**
 
 
 以下展示的 SEG 结果来源于网络截图，仅用于学术交流。若涉及您的合法权益，请及时联系我们（wutaoliu@nuaa.edu.cn），我们将及时处理。  
