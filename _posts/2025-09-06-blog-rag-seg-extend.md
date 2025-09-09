@@ -1,8 +1,8 @@
 ---
 
 title: 'RAG-SEG For Medicine'
-date: 2025-07-29
-permalink: /posts/2025-07-29-blog-post-vis/
+date: 2025-09-06
+permalink: /posts/2025-09-06-blog-rag-seg-extend/
 tags:
   - cool posts
   - category1
