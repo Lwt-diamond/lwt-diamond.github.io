@@ -14,7 +14,7 @@ tags:
 
 
 以下展示的 SEG 结果来源于网络截图，仅用于学术交流。若涉及您的合法权益，请及时联系我们（wutaoliu@nuaa.edu.cn），我们将及时处理。  
-The SEG results shown below are sourced from online screenshots and are intended for academic use only. If these materials infringe on your rights, please contact us at wutaoliu@nuaa.edu.cn for prompt resolution.
+The SEG results shown below are sourced from online screenshots and are intended for academic use only. If these materials infringe on your rights, please contact us at wutaoliu at nuaa.edu.cn for prompt resolution.
 
 
 
