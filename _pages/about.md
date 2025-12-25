@@ -12,13 +12,13 @@ redirect_from:
 
 目前，我正积极寻求与多模态大模型、生成式模型，推理部署 等相关方向的研究或工程岗位。
 
-业余时间我喜欢看动漫、读漫画，是《名侦探柯南》和APTX4869的忠实粉丝。
+业余时间我喜欢探索AI新技术，比如使用ollama部署私有大模型，使用AI帮我提升工作效率,对比不同的AI工具的使用体验等。
 
 I am Wutao Liu, a Master's student at Nanjing University of Aeronautics and Astronautics (NUAA). My research focuses on camouflaged object detection, retrieval-augmented generation (RAG), diffusion and flow matching, and multimodal foundation models. 
 
 Currently, I am actively seeking research or engineering positions related to directions such as multimodal large models, generative models, and inference deployment.
 
-In my free time, I enjoy watching anime and reading manga — I'm a big fan of Detective Conan and APTX4869.
+In my spare time, I enjoy exploring new AI technologies, such as deploying private large models using ollama, using AI to improve my work efficiency, and comparing the use experiences of different AI tools.
 
 
 ### 消息 |  News
